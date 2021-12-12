@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CRUDstayfresh</string>
+    <string name="crear_base_de_datos">crear base de datos</string>
+    <string name="hint_nombre"> Nombre: </string>
+    <string name="hint_telefono"> Telefono: </string>
+    <string name="hint_correo"> Correo_electronico: </string>
+    <string name="btn_guardar"> Guardar</string>
+    <string name="btn_crear"> Crear Base</string>
+    <string name="siguiente"> Nuevo Registro</string>
+    <string name="menu_registro">Registrar nuevo incidente</string>
+</resources>
